@@ -15,7 +15,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Angebote
       filters:
         folders:
           - project
@@ -31,7 +31,7 @@ sections:
           tag: '*'
         - name: Vorträge
           tag: Deep Learning
-        - name: Vorträge
+        - name: Gutachten
           tag: Deep Learning
         - name: Software
           tag: Demo
@@ -44,7 +44,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Kontakt
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
