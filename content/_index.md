@@ -30,11 +30,11 @@ sections:
         - name: Kurse
           tag: kurse
         - name: Vorträge
-          tag: Deep Learning
+          tag: vortraege
         - name: Gutachten
-          tag: Deep Learning
+          tag: gutachten
         - name: Software
-          tag: Demo
+          tag: software
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
