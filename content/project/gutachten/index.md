@@ -1,6 +1,6 @@
 ---
 title: Vorträge & Gutachten
-summary: 
+summary: Dieses Angebot zielt auf die Informierung von Entscheidungsprozessen und auf das Aufzeigen verschiedener Handlungsoptionen ab. 
 tags:
   - gutachten
 date: '2019-04-27T00:00:00Z'
