@@ -1,5 +1,5 @@
 ---
-title: Gutachten
+title: Vorträge & Gutachten
 summary: 
 tags:
   - gutachten
