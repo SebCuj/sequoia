@@ -28,7 +28,8 @@ sections:
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
         - name: Kurse
-          tag: '*'
+           tag: Deep Learning
+           tag: Deep Learning
         - name: Vorträge
           tag: Deep Learning
         - name: Gutachten
