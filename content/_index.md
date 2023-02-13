@@ -29,9 +29,7 @@ sections:
       buttons:
         - name: Kurse
           tag: kurse
-        - name: Vorträge
-          tag: vortraege
-        - name: Gutachten
+        - name: Vorträge & Gutachten
           tag: gutachten
         - name: Software
           tag: software

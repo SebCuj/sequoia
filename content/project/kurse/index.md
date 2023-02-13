@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 Das **Kursangebot** ist flexibel gestaltbar und lässt sich damit den jeweiligen Anforderungen der Zielgruppe anpassen. Der Kurs setzt sich aus einer Grundlagenveranstaltung und einer großen Bandbreite zielgruppenspezifischer Vertiefungsangebote zusammen. Ideen für mögliche Vertiefungen finden Sie auf Seite 3.
