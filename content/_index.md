@@ -29,7 +29,6 @@ sections:
       buttons:
         - name: Kurse
            tag: Deep Learning
-           tag: Deep Learning
         - name: Vorträge
           tag: Deep Learning
         - name: Gutachten
