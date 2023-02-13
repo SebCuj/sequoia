@@ -2,7 +2,7 @@
 title: Kurse
 summary: Das Kursangebot ist flexibel gestaltbar und lässt sich damit den jeweiligen Anforderungen der Zielgruppe anpassen. Der Kurs setzt sich aus einer Grundlagenveranstaltung und einer großen Bandbreite zielgruppenspezifischer Vertiefungsangebote zusammen.
 tags:
-  - Kurse
+  - kurse
 date: '2019-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
