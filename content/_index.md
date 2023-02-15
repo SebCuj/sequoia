@@ -5,6 +5,12 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: hero
+    id: home
+    content:
+      title: Sequoia Scenario Analysis
+      image:
+        filename: icon.png
   - block: about.avatar
     id: about
     content:
