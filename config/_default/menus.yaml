@@ -5,9 +5,6 @@
 
 main:
   - name: Home
-    url: '#home'
-    weight: 10
-  - name: Team
     url: '#about'
     weight: 20
 #  - name: Posts
