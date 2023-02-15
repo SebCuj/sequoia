@@ -25,8 +25,8 @@ header:
 <h3>Verantwortliche</h3>
 <p>Sebastian Cujai & Christoph Trinn<br>Bergheimer Straße 58<br>69115 Heidelberg</p>
 E-Mail-Adresse: 
-<p>sebastian.cujai[@]ipw.uni-heidelberg.de</p>
-<p>christoph.trinn[@]ipw.uni-heidelberg.de</p>
+<p>sebastian.cujai[@]ipw.uni-heidelberg.de<br>
+christoph.trinn[@]ipw.uni-heidelberg.de</p>
 
 <h3>Übersicht der Verarbeitungen</h3>
 <p>Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.</p>
