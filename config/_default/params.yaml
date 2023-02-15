@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Sequoia Scenario Analysis. '
+    notice: '© {year} Sequoia Scenario Analysis'
     license:
       enable: false
       allow_derivatives: false
